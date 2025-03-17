@@ -9,7 +9,7 @@ It is designed to be deployed on DigitalOcean.
 **Live Demo** [PanicPlaybook](https://www.panicplaybook.com)
 
 ### Index Page
-![Homepage Screenshot](readme_images/PanicPlaybook_Index_Page.jpg)
+![Homepage Screenshot](images/PanicPlaybook_Index_Page.jpg)
 
 ## Table of Contents
 - [Features](#features)
@@ -73,29 +73,29 @@ For a full list of dependencies, see [`requirements.txt`](requirements.txt).
 
 ## Screenshots
 ### Predictions Page
-![Future Setlist Prediction Example](readme_images/PanicPlaybook_Future_Prediction.jpg)
-![Past Setlist Prediction Example](readme_images/PanicPlaybook_Past_Prediction.jpg)
+![Future Setlist Prediction Example](images/PanicPlaybook_Future_Prediction.jpg)
+![Past Setlist Prediction Example](images/PanicPlaybook_Past_Prediction.jpg)
 
 ### Statistics Page
-![Data Visualizations Example](readme_images/PanicPlaybook_stats_page.jpg)
+![Data Visualizations Example](images/PanicPlaybook_stats_page.jpg)
 
 ### Playbook Picks Page
-![Playbook Picks Page](readme_images/PanicPlaybook_Picks_Page.jpg)
+![Playbook Picks Page](images/PanicPlaybook_Picks_Page.jpg)
 
 ### Setlist Page
-![Setlist Page](readme_images/PanicPlaybook_Setlist_Page.jpg)
+![Setlist Page](images/PanicPlaybook_Setlist_Page.jpg)
 
 ### Profile Page
-![Profile Page](readme_images/PanicPlaybook_Profile_page.jpg)
+![Profile Page](images/PanicPlaybook_Profile_page.jpg)
 
 ### News Page
-![News Page](readme_images/PanicPlaybook_News_Page.jpg)
+![News Page](images/PanicPlaybook_News_Page.jpg)
 
 ### Merchandise Page
-![Merchandise Page](readme_images/PanicPlaybook_Merch_Page.jpg)
+![Merchandise Page](images/PanicPlaybook_Merch_Page.jpg)
 
 ### About Page
-![About Page](readme_images/PanicPlaybook_About_Page.jpg)
+![About Page](images/PanicPlaybook_About_Page.jpg)
 
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License - see the [LICENSE](LICENSE) file for details.
